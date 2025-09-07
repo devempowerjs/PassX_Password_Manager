@@ -1,2 +1,5 @@
-# PassX_Password_Manager
-A password manager website for users to store and keep their passwords safe.
+# passx-password-manager
+# Developer: Mayank Raj
+# Core Team: Sumit Ranjan
+# Supporters: SaiRaj Patwardhan
+# Hosting: RudraCloud
